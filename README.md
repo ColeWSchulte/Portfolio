@@ -1,5 +1,14 @@
 # Cole's Portfolio
 
-# [Project 1: Netflix Content Catalog](https://github.com/ColeWSchulte/Netflix-Catalog-Analysis)
 
-This is a personal project where I created a Power BI report based on .CSV data of Netflix's content catalog.
+## Power BI Projects
+### [Project 1: Netflix Content Catalog](https://github.com/ColeWSchulte/Netflix-Catalog-Analysis)
+Creation of an in-depth Power BI report to analyze Netflix's Content Catalog. Key metrics being analyzed are content, geographical, and genre distributions, aimed at showcasing my data analysis and data science skills."
+
+**Skills Demonstrated:**
+  - **Importing Data**
+  - **Data Cleaning**
+  - **Data Modeling**
+  - **Data Visualization**
+  - **DAX**
+
