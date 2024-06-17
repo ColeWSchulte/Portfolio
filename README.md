@@ -2,7 +2,7 @@
 
 
 ## Power BI Projects
-### [Project 1: Netflix Content Catalog](https://github.com/ColeWSchulte/Netflix-Catalog-Analysis)
+### [Netflix Content Catalog Report](https://github.com/ColeWSchulte/Netflix-Catalog-Analysis)
 Creation of an in-depth Power BI report to analyze Netflix's Content Catalog. Key metrics being analyzed are content, geographical, and genre distributions, aimed at showcasing my data analysis and data science skills.
 
 **Skills Demonstrated:**
@@ -12,6 +12,7 @@ Creation of an in-depth Power BI report to analyze Netflix's Content Catalog. Ke
   - **Data Visualization**
   - **DAX**
 
-## R Projects(https://github.com/ColeWSchulte/R_Projects)
-### [Data Cleaning with R]
+
+## [R Projects](https://github.com/ColeWSchulte/R_Projects)
+### Data Cleaning with R
 Personal project where I pull in .csv data from my github, examine various attributes, and clean the data.
